@@ -1,2 +1,1 @@
-# bettertictactoe
-panic
+Attempted speed running tic tac toe.

@@ -1,0 +1,9 @@
+.board {
+  display: grid;
+  grid-template-columns: repeat(3, 50px);
+  grid-template-rows: repeat(3, 50px);
+}
+
+.square:hover{
+  background-color: red;
+}
